@@ -8,9 +8,11 @@ I'm a Senior Dot Net Full Stack Developer based in Delhi, India.
 - **Address**: H.no-A-69, Street No. 02, Saboli Extn., Delhi-110093
 
 ## Objective 🎯
-As a dedicated and driven software developer, I aim to leverage my extensive technical skills and industry experience to contribute to innovative and impactful projects within a forward-thinking organization.
+As a dedicated and driven software developer with over 6 years of experience, I aim to leverage my extensive technical skills and industry experience to contribute to innovative and impactful projects within a forward-thinking organization.
 
 ## Professional Experience 💼
+**Total Experience**: 7+ Years in Web Technologies
+
 ### ChromeInfo Technologies
 **Senior Software Developer**  
 *September 2021 - Present*
